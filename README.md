@@ -1,6 +1,6 @@
 #
 ## Авторы:
-- ### [Трунов К. А.](https://github.com/KlimentFis/Our_Diploma)
+- ### [Трунов К. А.](https://github.com/KlimentFis)
 - ### []()
 - ### []()
 ## Концепция:
